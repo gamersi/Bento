@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'YT Music',
+			name: 'Apple Music',
 			icon: 'music',
-			link: 'https://music.youtube.com',
+			link: 'https://music.apple.com/at',
 		},
 		{
 			id: '4',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Amazon',
+					link: 'https://amazon.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Figma',
+					link: 'https://figma.com/',
 				},
 				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Discord',
+					link: 'https://www.discord.com',
 				},
 			],
 		},
